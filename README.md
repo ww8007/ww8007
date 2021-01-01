@@ -1,4 +1,4 @@
-#장동현(Jang Dong Hyun) Git
+# 장동현(Jang Dong Hyun) Git
 ### Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ww8007&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ### Solved.ac
