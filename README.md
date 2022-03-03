@@ -62,6 +62,6 @@
 
 <h4 align="center"> 📒 Blog 📒 </h4>
 <p align="center">
-<a href="https://velog.io/@ww8007"><img src="https://img.shields.io/badge/Velog-54B848?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@ww8007"><img src="https://img.shields.io/badge/-54B848?style=flat-square&logo=Vimeo&logoColor=white&logoWidth=410"/></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=footer&%20render&fontSize=90"/>
