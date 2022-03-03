@@ -8,11 +8,12 @@
 <p align="center">
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ww8007&theme=tokyonight)  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww8007&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/ww8007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ww8007&theme=tokyonight" height="150"/>
+</a>
+<a href="https://github.com/ww8007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ww8007&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github.com/anuraghazra/github-readme-stats"  height="150" />
+</a>
 
 </p>
 <!-- <img src="https://conf.reactjs.org/tickets/Dudu-Kim" /> -->
