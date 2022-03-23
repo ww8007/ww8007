@@ -15,8 +15,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ww8007&theme=tokyonight&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
 </a>
 
+
 </p>
 <!-- <img src="https://conf.reactjs.org/tickets/Dudu-Kim" /> -->
+ 
+
  
 <br />
   <!-- <h3 align="center">I’m currently learning about React & TypeScript.</h3> -->
@@ -66,3 +69,7 @@
 <a href="https://velog.io/@ww8007"><img src="https://img.shields.io/badge/-54B848?style=flat-square&logo=Vimeo&logoColor=white&logoWidth=410"/></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=footer&%20render&fontSize=90"/>
+
+<a align="center" href="https://hits.seeyoufarm.com">
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fww8007&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a>
