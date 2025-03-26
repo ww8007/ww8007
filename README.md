@@ -20,6 +20,11 @@
 <!-- <img src="https://conf.reactjs.org/tickets/Dudu-Kim" /> -->
  
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ww8007"/>
+</a>
+
  
 <br />
   <!-- <h3 align="center">I’m currently learning about React & TypeScript.</h3> -->
